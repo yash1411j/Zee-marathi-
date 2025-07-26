@@ -1,10 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="zee.marathi" tvg-name="Zee Marathi" group-title="Marathi",Zee Marathi
-http://mag.alphatx.me/play/live.php?mac=00:1A:79:C0:5A:77&stream=282022&extension=ts&play_token=AtbwAXXMVO
+#EXTINF:-1 tvg-id="colors.marathi" tvg-name="Colors Marathi" group-title="Marathi",Colors Marathi
+http://mag.alphatx.me/play/live.php?mac=00:1A:79:50:3E:B9&stream=155758&extension=ts&play_token=6ZbNhzKZVQ
 
-#EXTINF:-1 tvg-id="star.plus" tvg-name="Star Plus" group-title="Hindi",Star Plus
-http://mag.alphatx.me/play/live.php?mac=00:1A:79:C0:5A:77&stream=282005&extension=ts&play_token=Zs45H1lKl
+#EXTINF:-1 tvg-id="star.sports" tvg-name="Star Sports" group-title="Sports",Star Sports
+http://mag.alphatx.me/play/live.php?mac=00:1A:79:50:3E:B9&stream=155967&extension=ts&play_token=TFkVHliNJq
 
-#EXTINF:-1 tvg-id="colors" tvg-name="Colors" group-title="Hindi",Colors
-http://mag.alphatx.me/play/live.php?mac=00:1A:79:C0:5A:77&stream=282009&extension=ts&play_token=PqKf891LX
+#EXTINF:-1 tvg-id="tv9.marathi" tvg-name="TV9 Marathi" group-title="Marathi",TV9 Marathi
+http://mag.alphatx.me/play/live.php?mac=00:1A:79:50:3E:B9&stream=282027&extension=ts&play_token=Ddr6fJbSkq
+
+#EXTINF:-1 tvg-id="zee.marathi.fhd" tvg-name="Zee Marathi FHD" group-title="Marathi",Zee Marathi FHD
+http://mag.alphatx.me/play/live.php?mac=00:1A:79:50:3E:B9&stream=282022&extension=ts&play_token=bs8gcpalVR
+
+#EXTINF:-1 tvg-id="zee.talkies.fhd" tvg-name="Zee Talkies FHD" group-title="Marathi",Zee Talkies FHD
+http://mag.alphatx.me/play/live.php?mac=00:1A:79:50:3E:B9&stream=155756&extension=ts&play_token=N8QioHoJqe
+
+#EXTINF:-1 tvg-id="zee.marathi.hd" tvg-name="Zee Marathi HD" group-title="Marathi",Zee Marathi HD
+http://mag.alphatx.me/play/live.php?mac=00:1A:79:50:3E:B9&stream=155757&extension=ts&play_token=STltlnENdJ
+
+#EXTINF:-1 tvg-id="sony.marathi.hd" tvg-name="Sony Marathi HD" group-title="Marathi",Sony Marathi HD
+http://mag.alphatx.me/play/live.php?mac=00:1A:79:50:3E:B9&stream=155759&extension=ts&play_token=R2TzLqYuPF
